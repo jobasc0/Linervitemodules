@@ -1,0 +1,6 @@
+{
+    "Core": true,
+    "Auth": true,
+    "User": true,
+    "Admin": true
+}
